@@ -1,0 +1,17 @@
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\bin\Debug\net8.0\ProjetoBase.infrastructure.deps.json
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\bin\Debug\net8.0\ProjetoBase.infrastructure.runtimeconfig.json
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\bin\Debug\net8.0\ProjetoBase.infrastructure.dll
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\bin\Debug\net8.0\ProjetoBase.infrastructure.pdb
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\bin\Debug\net8.0\ProjetoBase.Domain.dll
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\bin\Debug\net8.0\ProjetoBase.Domain.pdb
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\obj\Debug\net8.0\ProjetoBase.infrastructure.csproj.AssemblyReference.cache
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\obj\Debug\net8.0\ProjetoBase.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\obj\Debug\net8.0\ProjetoBase.infrastructure.AssemblyInfoInputs.cache
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\obj\Debug\net8.0\ProjetoBase.infrastructure.AssemblyInfo.cs
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\obj\Debug\net8.0\ProjetoBase.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\obj\Debug\net8.0\ProjetoB.922753B5.Up2Date
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\obj\Debug\net8.0\ProjetoBase.infrastructure.dll
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\obj\Debug\net8.0\refint\ProjetoBase.infrastructure.dll
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\obj\Debug\net8.0\ProjetoBase.infrastructure.pdb
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\obj\Debug\net8.0\ProjetoBase.infrastructure.genruntimeconfig.cache
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.infrastructure\obj\Debug\net8.0\ref\ProjetoBase.infrastructure.dll

@@ -1,0 +1,11 @@
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.Domain\bin\Debug\net8.0\ProjetoBase.Domain.deps.json
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.Domain\bin\Debug\net8.0\ProjetoBase.Domain.dll
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.Domain\bin\Debug\net8.0\ProjetoBase.Domain.pdb
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.Domain\obj\Debug\net8.0\ProjetoBase.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.Domain\obj\Debug\net8.0\ProjetoBase.Domain.AssemblyInfoInputs.cache
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.Domain\obj\Debug\net8.0\ProjetoBase.Domain.AssemblyInfo.cs
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.Domain\obj\Debug\net8.0\ProjetoBase.Domain.csproj.CoreCompileInputs.cache
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.Domain\obj\Debug\net8.0\ProjetoBase.Domain.dll
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.Domain\obj\Debug\net8.0\refint\ProjetoBase.Domain.dll
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.Domain\obj\Debug\net8.0\ProjetoBase.Domain.pdb
+C:\Users\igorf\source\repos\ProjetoBase.Api\ProjetoBase.Domain\obj\Debug\net8.0\ref\ProjetoBase.Domain.dll

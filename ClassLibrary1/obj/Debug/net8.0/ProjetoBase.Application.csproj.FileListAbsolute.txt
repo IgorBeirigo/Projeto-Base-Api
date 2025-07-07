@@ -1,0 +1,17 @@
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\bin\Debug\net8.0\ProjetoBase.Application.deps.json
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\bin\Debug\net8.0\ProjetoBase.Application.dll
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\bin\Debug\net8.0\ProjetoBase.Application.pdb
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\bin\Debug\net8.0\ProjetoBase.Domain.dll
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\bin\Debug\net8.0\ProjetoBase.infrastructure.dll
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\bin\Debug\net8.0\ProjetoBase.Domain.pdb
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\bin\Debug\net8.0\ProjetoBase.infrastructure.pdb
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\obj\Debug\net8.0\ProjetoBase.Application.csproj.AssemblyReference.cache
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\obj\Debug\net8.0\ProjetoBase.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\obj\Debug\net8.0\ProjetoBase.Application.AssemblyInfoInputs.cache
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\obj\Debug\net8.0\ProjetoBase.Application.AssemblyInfo.cs
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\obj\Debug\net8.0\ProjetoBase.Application.csproj.CoreCompileInputs.cache
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\obj\Debug\net8.0\ProjetoB.BB0D9E63.Up2Date
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\obj\Debug\net8.0\ProjetoBase.Application.dll
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\obj\Debug\net8.0\refint\ProjetoBase.Application.dll
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\obj\Debug\net8.0\ProjetoBase.Application.pdb
+C:\Users\igorf\source\repos\ProjetoBase.Api\ClassLibrary1\obj\Debug\net8.0\ref\ProjetoBase.Application.dll
