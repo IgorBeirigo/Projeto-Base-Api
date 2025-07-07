@@ -40,9 +40,11 @@ ProjetoBase.Api
 ```bash
 dotnet ef migrations add InitialCreate -p ProjetoBase.Infrastructure -s ProjetoBase.Api
 dotnet ef database update -p ProjetoBase.Infrastructure -s ProjetoBase.Api
-Inicie o projeto e acesse o Swagger:
 
+
+3. Inicie o Projeto e Acesse o Swagger:
 
 https://localhost:5001/swagger
+
 👨‍💻 Autor
 Igor Beirigo — Projeto base para clonar e expandir sistemas com .NET.
