@@ -37,7 +37,7 @@ ProjetoBase.Api
 1. Configure a `DefaultConnection` no `appsettings.json` com seu MySQL local.
 2. Rode os comandos:
 
-
+```bash
 dotnet ef migrations add InitialCreate -p ProjetoBase.Infrastructure -s ProjetoBase.Api
 dotnet ef database update -p ProjetoBase.Infrastructure -s ProjetoBase.Api
 Inicie o projeto e acesse o Swagger:
